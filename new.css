@@ -1,0 +1,135 @@
+body{
+	background-color:#ABAAFF;
+	
+	}
+.bod {
+	background-image: url(images/school_07.png) !important;
+	background-repeat: repeat-y !important;
+}
+.input {
+	direction: inherit;
+}
+.css_input1 {
+	border: 1px solid #DBDBDB;
+	background: #FCFCFC;
+	color: #666666;
+	height: 12px;
+	font-family: tahoma;
+	font-size: 12px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.css_input2 {
+	border-radius:5px;
+
+	border: 1px solid #DBDBDB;
+	background: #FCFCFC;
+	color: #666666;
+	font-family: tahoma;
+	font-size: 12px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.css_input {
+	border: 1px solid #DBDBDB;
+	background: #FCFCFC;
+	color: #666666;
+	height: 20px;
+	font-family: tahoma;
+	font-size: 12px;
+	padding: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.bac {
+	background-image: url(images/marks3_03.png);
+}
+.bacc {
+	background-image: url(images/marks2_06.png);
+	background-repeat: repeat-y;
+}
+.bacs {
+	background-image: url(images/schoolbac_06.png);
+	background-repeat: repeat-y;
+}
+.baccc {
+	background-image: url(images/marks2_03.png);
+}
+.bacd {
+	background-image: url(images/marks2_08.png);
+}
+.text {
+	color: #FFF;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+}
+.text1 {
+	color: #EB8452;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	text-align: right;
+}
+.marks {
+	color: #000;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+}
+.markss {
+	color: #F00;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+.markss1 {
+	color: #0F6;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+}
+.marksc {
+	color: #300;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 17px;
+	text-decoration: none;
+}
+.title {
+	color: #999;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 50px;
+	text-decoration: none;
+}
+
+.title-d{
+border:1px solid #E0E0E0;
+text-align:center;
+border-radius:5px;
+padding:10px;
+background-color:#FFFFFF;
+font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+box-shadow:0 0 1px;
+	
+	
+	}
+#t1{
+color:#3F3F3F;
+font-size:24px;	
+	}
+#t2{
+color:#662627;
+font-size:15px;	
+	}
+.index-t{
+margin-left:200px;
+text-align:center;
+width:930px;
+border-radius:5px;
+padding:10px;
+background-color:#FFFFFF;
+font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+box-shadow:0 0 1px;
+	
+	
+	}
